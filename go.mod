@@ -1,4 +1,4 @@
-module github.com/Dreamacro/protobytes
+module github.com/ClashCore/protobytes
 
 go 1.20
 
